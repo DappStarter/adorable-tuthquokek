@@ -1,0 +1,14 @@
+{
+    "name": "real moon coin",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/vanilla": true,
+        "/category/asset_value_tracking/token": true,
+        "/category/asset_value_tracking/token/name": "real moon coin",
+        "/category/asset_value_tracking/token/symbol": "realmoon",
+        "/category/asset_value_tracking/token/decimals": "100",
+        "/category/asset_value_tracking/token/supply": "1000000000",
+        "/category/access_control/contract_runstate": true
+    }
+}
